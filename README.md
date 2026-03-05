@@ -12,41 +12,39 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Grocery Budget App**, **RAG systems**, and **FastAPI backends**.
-- 🌱 I’m currently learning **Django, AI & ML Courses**.
-- 👯 I’m looking to collaborate on **Generative AI (LLMs) and Scalable Backend Projects**.
-- 🤝 I’m looking for help with **FastAPI, RAG Pipelines, and ETL processes**.
-- 💬 Ask me about **React, Javascript, Python, and FastAPI**.
-- 📫 How to reach me: **hemangpatel0710@gmail.com**.
-- 📄 My Portfolio: [portfolio-seven-jade-wfivr2k6h4.vercel.app](https://portfolio-seven-jade-wfivr2k6h4.vercel.app/).
+- [cite_start]🔭 I’m currently working on a **Grocery Budget App**, **RAG pipelines**, and **FastAPI backends**[cite: 22, 66, 96].
+- [cite_start]🌱 I’m currently learning **Django** and advanced **AI & ML courses**[cite: 22].
+- [cite_start]👯 I’m looking to collaborate on **Generative AI (LLMs) and Scalable Backend Projects**[cite: 22, 23].
+- [cite_start]🤝 I’m looking for help with **FastAPI, RAG Pipelines, and ETL processes**[cite: 22, 66].
+- [cite_start]💬 Ask me about **Python, FastAPI, React, and JavaScript**[cite: 69, 70].
+- [cite_start]📫 How to reach me: **hemangpatel0710@gmail.com**[cite: 3, 61].
+- [cite_start]📄 My Portfolio: [portfolio-seven-jade-wfivr2k6h4.vercel.app](https://portfolio-seven-jade-wfivr2k6h4.vercel.app/)[cite: 7, 62].
 
 ---
 
 ### 💼 Professional Experience
-* **Software Developer (Co-op) @ Popin (Apr 2025 - Aug 2025):** Built Python-based data pipelines and FastAPI REST services for AI-enabled features.
-* **Full Stack Developer @ Techmicra Data Systems (Jan 2021 - Sep 2023):** Developed CRM/ERP systems (React, Node.js, MySQL) and implemented AI-driven personalization logic.
-* **Web Developer (Volunteer) @ Rise UP (Apr 2024 - Present):** Enhancing backend logic and API integrations for internal web applications.
+* [cite_start]**Software Developer (Co-op) @ Popin (Apr 2025 - Aug 2025):** Built Python-based data pipelines to process structured datasets for analytics and AI-enabled features[cite: 76, 78, 79]. [cite_start]Developed REST APIs using FastAPI[cite: 80].
+* [cite_start]**Full Stack Developer @ Techmicra Data Systems (Jan 2021 - Sep 2023):** Developed full-stack CRM and ERP systems using React, Node.js, Express, and MySQL[cite: 43, 46, 83, 85]. [cite_start]Implemented AI-inspired personalization logic[cite: 49, 88].
+* [cite_start]**Web Developer (Volunteer) @ Rise UP (Apr 2024 - Present):** Enhancing backend logic and API integrations for internal web applications using Git for collaboration[cite: 25, 27, 29, 31, 32, 105, 107].
 
 ---
 
 ### 🏗️ Featured Projects
-* **FitFeast – Health & Nutrition App:** Scalable backend with FastAPI & MySQL; implemented rule-based meal recommendations.
-* **Real Estate Analytics Platform:** MERN stack application with an ETL pipeline to process large property datasets.
+* [cite_start]**FitFeast – Health & Nutrition App:** Designed a scalable backend with FastAPI and MySQL to manage health metrics and implemented rule-based meal recommendations[cite: 96, 97, 99].
+* [cite_start]**Real Estate Analytics & Data Platform:** Built a MERN stack application with an ETL pipeline to ingest and process large property datasets[cite: 100, 101, 102].
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="left">
-<a href="https://dev.to/hemang_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hemangpatelj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25396930/hemang-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/heman57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/hemang57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/heman57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -55,17 +53,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemang0710&show_icons=true&theme=radical" alt="Hemang's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang0710&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemang0710&show_icons=true&theme=radical" alt="Hemang's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang0710&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang0710&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang0710&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
