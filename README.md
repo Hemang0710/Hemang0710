@@ -23,7 +23,7 @@
 ---
 
 ### 💼 Professional Experience
-**Software Developer (Co-op) @ Popin (Apr 2025 - Aug 2025):** Built Python-based data pipelines to process structured datasets for analytics and AI-enabled features.Developed REST APIs using FastAPI.
+**Software Developer (Co-op) @ Popin (Apr 2025 - Nov 2025):** Built Python-based data pipelines to process structured datasets for analytics and AI-enabled features.Developed REST APIs using FastAPI.
 **Full Stack Developer @ Techmicra Data Systems (Jan 2021 - Sep 2023):** Developed full-stack CRM and ERP systems using React, Node.js, Express, and MySQL.Implemented AI-inspired personalization logic.
 **Web Developer (Volunteer) @ Rise UP (Apr 2024 - Present):** Enhancing backend logic and API integrations for internal web applications using Git for collaboration.
 
